@@ -4,7 +4,7 @@
 
 - **Hypervisor:** VMware Workstation
 - **Server OS:** Windows Server 2019 (evaluation ISO)
-- **Client OS:** Windows 10/11 (domain-joined)
+- **Client OS:** Windows 11 Pro (domain-joined)
 - **Domain:** `lab.local`
 
 ## Steps
