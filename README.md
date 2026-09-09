@@ -1,4 +1,4 @@
-# Windows Server Active Directory Home Lab
+# Windows Server Active Directory & Enterprise Lab
 
 A self-built Active Directory environment simulating a multi-department enterprise, created to close hands-on skill gaps identified during a technical interview and to build practical, demonstrable Windows Server / sysadmin experience.
 
