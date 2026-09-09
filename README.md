@@ -1,6 +1,6 @@
 # Windows Server Active Directory & Enterprise Lab
 
-A self-built Active Directory environment simulating a multi-department enterprise, created to close hands-on skill gaps identified during a technical interview and to build practical, demonstrable Windows Server / sysadmin experience.
+A hands-on Windows Server 2019 environment built in VMware Workstation to simulate a multi-department enterprise network. The lab demonstrates Active Directory administration, DNS, Group Policy, file and printer services, delegated administration, remote access, permissions management, and PowerShell automation.
 
 **Environment:** VMware Workstation, Windows Server 2019 (Domain Controller), Windows 10/11 (domain-joined client)
 
